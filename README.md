@@ -138,4 +138,4 @@
     Similar to ARC but uses Clock to reduce overhead.
     
     Pros: Fast & adaptive.
-    Cons: Still more complicated than LRU or FIFO.
+    Cons: Complicated than LRU or FIFO.
